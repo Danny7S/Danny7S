@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python,HTML,CSS
 - 📫 How to reach me: https://www.instagram.com/iamdanny_s7/
 - ⚡ Fun fact: I love basketball, gaming and exploring
--->
